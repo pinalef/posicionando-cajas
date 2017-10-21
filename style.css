@@ -1,0 +1,18 @@
+.ext{
+	background-color: red;
+	width: 300px;
+	height: 300px;
+
+}
+.int{
+	background-color: purple;
+	position:absolute;
+	margin-top: 75px;
+	margin-left: 75px;
+	width: 160px;
+	height: 160px;
+}
+
+.small{
+	
+}
